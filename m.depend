@@ -1,6 +1,7 @@
 # depslib dependency file v1.0
-1559223566 source:f:\vs_doc\code_doc\assignment\sta\m\main.cpp
+1559467013 source:f:\vs_doc\code_doc\assignment\sta\m\main.cpp
 	<iostream>
+	<stdlib.h>
 	<math.h>
 	<iomanip>
 
